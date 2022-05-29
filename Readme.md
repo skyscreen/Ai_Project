@@ -1,9 +1,9 @@
 
 
 
-# Deveop recommendations based on H&M data with ensembling models 
+# Deveop project for model & train
 
-2393_2410
+
 
 
 
