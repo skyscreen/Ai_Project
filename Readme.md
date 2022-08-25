@@ -1,7 +1,7 @@
 
 
 
-# Deveop project for  model train & infer
+# Develop project for  model train & infer
 
 
 
